@@ -1,0 +1,16 @@
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\SEParaPeliculas.exe.config
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\SEParaPeliculas.exe
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\SEParaPeliculas.pdb
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.FormBaseConocimiento.resources
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.FormInicio.resources
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.FormMenu.resources
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.Properties.Resources.resources
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.csproj.GenerateResource.cache
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.csproj.CopyComplete
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.exe
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.pdb
+C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\BC.json
