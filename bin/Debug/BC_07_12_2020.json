@@ -1,0 +1,332 @@
+﻿[
+  {
+    "Nombre": "Al filo del Mañana",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Basada en libros" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" },
+      { "Value": "Militar" },
+      { "Value": "Thrillers de acción" },
+      { "Value": "Ciencia Ficción" },
+      { "Value": "Para adultos" }
+    ],
+    "Recomendacion": "Preso en un bucle temporal, Bill Cage revive su muerte en combate una y otra vez. Su único escape: hallar la forma de sobrevivir y vencer a los invasores"
+  },
+  {
+    "Nombre": "300",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" },
+      { "Value": "Militar" },
+      { "Value": "Epopeya" },
+      { "Value": "Para adultos" }
+    ],
+    "Recomendacion": "En el año 480 a.C., el rey Leónidas lidera a sus 300 soldados contra un ejército de más de un millón de soldados en la batalla de las Termópilas"
+  },
+  {
+    "Nombre": "Luvia de hamburguesas",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Familiar" },
+      { "Value": "Comedia" },
+      { "Value": "Basada en libros" },
+      { "Value": "Infantil" },
+      { "Value": "Animacion" }
+    ],
+    "Recomendacion": "Cuando el inventor Flint lockwood hace que las nubes descarguen comida, los ciudadanos de la Isla Bocado están contentos de comer, pero el desastre está por llegar"
+  },
+  {
+    "Nombre": "Klaus",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Familiar" },
+      { "Value": "Comedia" },
+      { "Value": "Infantil" },
+      { "Value": "Navideña" },
+      { "Value": "Animacion" },
+      { "Value": "Animacion" }
+    ],
+    "Recomendacion": "Llegó la cura contra el frio del alma: un mensajero con buenos deseos y el mejor fabricante de juguetes"
+  },
+  {
+    "Nombre": "Megamente",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Familiar" },
+      { "Value": "Comedia" },
+      { "Value": "Infantil" },
+      { "Value": "Heroes" },
+      { "Value": "Animacion" }
+    ],
+    "Recomendacion": "Un codicioso y fracasado villano logra conquistar el poder ¿Pero, podrá un perdedor mantenerse en la sima?"
+  },
+  {
+    "Nombre": "La Mascara",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" },
+      { "Value": "Comedia" },
+      { "Value": "Crimenes" }
+    ],
+    "Recomendacion": "Un desafortunado empleado bancario descubre una antigua máscara que lo convierte en el bromista desenfrenado y le permite dar rienda suelta a sus deseos más profundos"
+  },
+  {
+    "Nombre": "Matilda",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Comedia" },
+      { "Value": "Familiar" },
+      { "Value": "Basada en libros" },
+      { "Value": "Fantasia" }
+    ],
+    "Recomendacion": "Una niña descubre sus poderes ocultos, que usa para ayudar en ciertas dificultades y para castigar a las personas crueles, como la directora de la escuela y sus padres"
+  },
+  {
+    "Nombre": "No se aceptan devoluciones",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Comedia" },
+      { "Value": "Drama" },
+      { "Value": "Melodrama" },
+      { "Value": "Mexicana" }
+    ],
+    "Recomendacion": "Sin poder encontrar a la madre de una niña abandonada en la puerta de su casa, un playboy comienza a amar a la nena"
+  },
+  {
+    "Nombre": "¿..Y donde estan las rubias?",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Comedia" },
+      { "Value": "Comedia fisica" },
+      { "Value": "Para adultos" }
+    ],
+    "Recomendacion": "Dos agentes negros del FBI cuya mision es cuidar a dos aristocratas cabeza huecas se haceb pasar por dos muchachas blancas para atrapar a los posibles secuestradores"
+  },
+  {
+    "Nombre": "Your Name",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Anime" },
+      { "Value": "Drama" },
+      { "Value": "Romantica" },
+      { "Value": "Escolar" }
+    ],
+    "Recomendacion": "Una chica del campo comienza a despertar en el cuerpo de un joven de la ciudad que tiene la vida que ella siempre soñó "
+  },
+  {
+    "Nombre": "Norbit",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Comedia" },
+      { "Value": "Comedia fisica" },
+      { "Value": "Romantica" },
+      { "Value": "Para adultos" }
+    ],
+    "Recomendacion": "Luego de ser obligado a casarse con una autoritaria mujer, el amable Norbit conoce a la chica de sus sueños en esta divertida comedia romántica"
+  },
+  {
+    "Nombre": "Rescatando al soldado Ryan",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" },
+      { "Value": "Drama" },
+      { "Value": "Militar" }
+    ],
+    "Recomendacion": "Ocho soldados arriesgan su vida en territorio alemán durante la Segunda Guerra Mundial para buscar a un soldado y regresarlo a casa "
+  },
+  {
+    "Nombre": "Cenicienta",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Romantica" },
+      { "Value": "Familiar" },
+      { "Value": "Fantasia" },
+      { "Value": "Animacion" },
+      { "Value": "Musical" },
+      { "Value": "Infantil" }
+    ],
+    "Recomendacion": "El hada Madrina transforma una ordinaria calabaza en un magnífico carruaje y los harapos de cenicienta en un vestido precioso. Pero cuando termine la noche ¿llegará a su fin su cuenta de hadas?"
+  },
+  {
+    "Nombre": "Blanca Nieves",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Familiar" },
+      { "Value": "Fantasia" },
+      { "Value": "Animacion" },
+      { "Value": "Infantil" }
+    ],
+    "Recomendacion": "Blanca Nieves se gana el corazón de los siete enanitos y triunfa sobre la malvada reina, en la película que lanzo el legado de animación de Disney"
+  },
+  {
+    "Nombre": "Frozen",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Romantica" },
+      { "Value": "Familiar" },
+      { "Value": "Fantasia" },
+      { "Value": "Animacion" },
+      { "Value": "Musical" },
+      { "Value": "Infantil" }
+    ],
+    "Recomendacion": "La osada y optimista Anna, y el hombre de montaña Kristoff, intentan encontrar a Elsa, hermana de Anna, y cuyos poderes de hielo han atrapado en un invierno eterno al reino de Arendelle"
+  },
+  {
+    "Nombre": "Volver al Futuro",
+    "Atributos": [
+      { "Value": "Pelicula" },
+      { "Value": "Familiar" },
+      { "Value": "Comedia" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" },
+      { "Value": "Ciencia Ficción" }
+    ],
+    "Recomendacion": "Tras viajar al pasado por accidente en un DeLorean convertido en máquina del tiempo, Marty McFly debe asegurarse de que sus padres se enamoren para volver al futuro"
+  },
+  {
+    "Nombre": "Naruto",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Anime" },
+      { "Value": "Basado en manga" },
+      { "Value": "Familiar" },
+      { "Value": "Shounen" }
+    ],
+    "Recomendacion": "Conoce la Alde escondida entre las hojas, donde los ninjas mortales acechan la tierra y el travieso Naruto Uzumaki cause problemas por todas partes"
+  },
+  {
+    "Nombre": "Desaparecido",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Misterio" },
+      { "Value": "Basado en manga" },
+      { "Value": "Para adultos" },
+      { "Value": "Thrillers" }
+    ],
+    "Recomendacion": "Satoru Fujinuma puede viajar al pasado para salvar vidas. Cuando se despierta 18 años antes del presente, tiene la oportunidad de salvar a sus compañeros de la muerte"
+  },
+  {
+    "Nombre": "Friends",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Sitcom" },
+      { "Value": "Comedia" }
+    ],
+    "Recomendacion": "Esta comedia televisiva sigue las aventuras y desventuras en el trabajo, en el amor y la vida de seis amigos veinteañeros que viven en Manhattan durante los noventas"
+  },
+  {
+    "Nombre": "Rick y Morty",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Ciencia Ficción" },
+      { "Value": "Sitcom" },
+      { "Value": "Comedia" },
+      { "Value": "Para adultos" }
+    ],
+    "Recomendacion": "Rick & Morty relata las aventuras de un científico loco, mal encarado y alcohólico que vive en casa de su hija, Beth, junto a Jerry, el marido de ésta y los dos hijos de la pareja, Summer y Morty, compañero de su abuelo en sus andanzas."
+  },
+  {
+    "Nombre": "One Punch Man ",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Basado en manga" },
+      { "Value": "Shounen" },
+      { "Value": "Comedia" }
+    ],
+    "Recomendacion": "El superhéroe más poderoso del mundo puede matar a cualquiera de un solo golpe, pero al no tener retos, lucha contra la depresión y el hastío"
+  },
+  {
+    "Nombre": "Young Justice",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Animacion" },
+      { "Value": "Basada en Comics" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" }
+    ],
+    "Recomendacion": "Esta serie animada sigue a robin, aqualad y otros adolescentes aliados de superhéroes que forman un grupo secreto para combatir el crimen y salvar al mundo"
+  },
+  {
+    "Nombre": "Hora de Aventura",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Infantil" },
+      { "Value": "Animacion" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" },
+      { "Value": "Comedia" }
+    ],
+    "Recomendacion": "El joven Finn y sus amigo Jake el perro que cambia de forma, tienen una serie de aventuras surrealistas mientras viajan por la postapocalíptica tierra de Ooo"
+  },
+  {
+    "Nombre": "The Walking Dead",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Ciencia Ficción" },
+      { "Value": "Basada en Comics" },
+      { "Value": "Terror" },
+      { "Value": "Drama" }
+    ],
+    "Recomendacion": "En el alba de un apocalipsis zombi, los sobrevivientes se aferran a la esperanza de la humanidad uniéndose para librar una batalla por su supervivencia"
+  },
+  {
+    "Nombre": "The Flash",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Ciencia Ficción" },
+      { "Value": "Basada en Comics" },
+      { "Value": "Drama" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" }
+    ],
+    "Recomendacion": "En esta serie del clásico superhéroe, un especialista forense vuelve de un coma y descubre que posee poderes que le permitirán enfrentar a quienes amenacen a su ciudad"
+  },
+  {
+    "Nombre": "Arrow",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Ciencia Ficción" },
+      { "Value": "Basada en Comics" },
+      { "Value": "Drama" },
+      { "Value": "Accion" },
+      { "Value": "Aventura" }
+    ],
+    "Recomendacion": "Basada en las historietas de Flecha Verde, un próspero playboy se transforma en un superhéroe que salva a la ciudad de villanos, armado únicamente de un arco y flechas"
+  },
+  {
+    "Nombre": "Final Space",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Comedia" },
+      { "Value": "Sitcom" },
+      { "Value": "Para adultos" },
+      { "Value": "Animacion" }
+    ],
+    "Recomendacion": "Se hubiera conformado con algo de compañía y una galletita. Termino con una pelota flotante y la aventura de su vida"
+  },
+  {
+    "Nombre": "Cobra Kai",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Drama" },
+      { "Value": "Accion" },
+      { "Value": "Melodrama" }
+    ],
+    "Recomendacion": "Décadas después del torneo que les cambió la vida, se reaviva la rivalidad entre Johny y Daniel. Esta secuela continúa la historia de las películas de Karate Kid"
+  },
+  {
+    "Nombre": "Scissors seven",
+    "Atributos": [
+      { "Value": "Serie" },
+      { "Value": "Comedia" },
+      { "Value": "Accion" },
+      { "Value": "Animacion" },
+      { "Value": "Aventura" }
+    ],
+    "Recomendacion": "Peluqueria, sicario, no está hecho para ninguna ¿Encontrara alguna vez su vocación este asesino mal pagado?"
+  }
+]

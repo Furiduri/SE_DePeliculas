@@ -176,7 +176,6 @@ namespace SEParaPeliculas
             catch (Exception ex)      
             {
 
-                throw;
             }
         }
 

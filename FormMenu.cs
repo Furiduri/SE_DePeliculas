@@ -90,7 +90,7 @@ namespace SEParaPeliculas
         private void OpenChildForm(Form childForm)
         {
             //open only form
-            if (currentChildForm == childForm)
+            if (currentChildForm != null)
             {                
                 currentChildForm.Close();
             }
@@ -110,6 +110,7 @@ namespace SEParaPeliculas
         private void btnMenuConsulta_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, MyColors.Blue);
+            OpenChildForm(new FormConsulta());
         }
 
         private void btnMenuBaseConocimientos_Click(object sender, EventArgs e)
