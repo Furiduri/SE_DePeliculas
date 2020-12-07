@@ -119,9 +119,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="BC.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="BC.json" />
     <None Include="packages.config" />
     <None Include="Properties\DataSources\oPelicula.datasource" />
     <None Include="Properties\Settings.settings">

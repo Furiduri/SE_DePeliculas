@@ -13,7 +13,6 @@ C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.csproj.Cor
 C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.csproj.CopyComplete
 C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.exe
 C:\Users\2212878\Desktop\SE\SEParaPeliculas\obj\Debug\SEParaPeliculas.pdb
-C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\BC.json
 C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\Telerik.WinControls.dll
 C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\Telerik.WinControls.UI.dll
 C:\Users\2212878\Desktop\SE\SEParaPeliculas\bin\Debug\TelerikCommon.dll

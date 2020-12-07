@@ -191,6 +191,7 @@ namespace SEParaPeliculas
             {
                 ListPeliculas.Remove(ListPeliculas[e.RowIndex]);
                 SetBtnSaveRed();
+                IndexP = 0;
                 LoadGrid();
             }
         }
@@ -203,6 +204,7 @@ namespace SEParaPeliculas
                 ListPeliculas[IndexP.Value].Atributos
                     .Remove(ListPeliculas[IndexP.Value].Atributos[e.RowIndex]);
                 SetBtnSaveRed();
+                IndexP = 0;
                 LoadAtributosPeluculaActual();
             }
         }

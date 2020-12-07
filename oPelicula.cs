@@ -63,6 +63,8 @@ namespace SEParaPeliculas
             {
                 MessageBox.Show(ex.Message);
             }
+            if(listPeliculas == null)
+                listPeliculas = new List<oPelicula>();
             return listPeliculas;
         }
 
